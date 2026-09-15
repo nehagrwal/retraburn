@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/retraburn/sitemap.xml
+Sitemap: https://retraburn.vercel.app/sitemap-vercel.xml
+Sitemap: https://retraburn.pages.dev/sitemap-cloudflare.xml
